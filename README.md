@@ -1,0 +1,1 @@
+# Sales-Management-project-to-manage-product-details-sales-records-and-payment-information-using-SQL.
